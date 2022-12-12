@@ -1,9 +1,9 @@
 baseurl = "https://blist.vercel.app"
 metaDataFormat = "yaml"
-title = "Blist Multilingual Theme"
+title = "LabVeilleTech - Eloi"
 theme = "blist"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "fr"
 DefaultContentLanguageInSubdir = true
 [languages]
   [languages.en]
@@ -66,7 +66,7 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "Français"
     [languages.fr.params]
-      introTitle = "Salut! Je suis Katheryn Fox"
+      introTitle = "Salut! Je suis Eloi Coquoz"
       introSubtitle = "Développeuse junior de 26 ans qui adore les jeux de société, le blogging et la peinture"
       introPhoto = "/picture.jpg"
       logo = "/blist-logo.png"
@@ -84,11 +84,6 @@ DefaultContentLanguageInSubdir = true
         name = "Tags"
         url = "tags"
         weight = 3
-        
-  [languages.dy]
-    contentDir = "content/dy" #Example language
-    weight = 3
-    languageName = "Test Language"
 
 [params]
   # Enable the darkmode toggle in header
@@ -98,7 +93,7 @@ DefaultContentLanguageInSubdir = true
   enableSearch = true
 
   # Custom copyright - optional
-  copyright = "Copyright © 2021 - Katheryn Fox · All rights reserved"
+  copyright = "Copyright © 2022 - Eloi Coquoz · All rights reserved"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
@@ -121,15 +116,9 @@ DefaultContentLanguageInSubdir = true
   # Global params common for both languages
   title = "Follow me"
   description = "I work on everything coding and tweet developer memes"
-  twitter = "https://twitter.com/"
-  linkedin = "https://linkedin.com/in/"
-  xing = "https://www.xing.com/profile/"
-  github = "https://github.com/"
-  medium = "https://medium.com/"
-  reddit = "https://reddit.com/"
-  dribbble = "https://dribbble.com/"
-  stackoverflow = "https://stackoverflow.com/"
-  tiktok = "https://tiktok.com"
+  linkedin = "https://www.linkedin.com/in/eloi-coquoz/"
+  github = "https://github.com/eloicoquoz"
+  instagram = "https://instagram.com/coquoz_eloi"
 
 [[menu.main]]
   name = "About"
