@@ -7,6 +7,12 @@ on:
   pull_request:
 
 jobs:
+deploy/%.css: %.css
+  ./node_modules/.bin/postcss \
+    --use postcss-url --postcss-url.url=rebase \
+    --use autoprefixer --autoprefixer.browsers "> 5%" \
+    --use cssnano --no-cssnano.discardUnused
+    --output $@ $<
   deploy:
     runs-on: ubuntu-18.04
     concurrency:
