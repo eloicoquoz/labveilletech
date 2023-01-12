@@ -53,3 +53,8 @@
     display: none;
   }
 }
+
+.dark .dark\:bg-gray-800 {
+  --tw-bg-opacity: 1;
+  background-color: rgba(30,30,30,var(--tw-bg-opacity)) !important;
+}
