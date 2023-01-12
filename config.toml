@@ -7,7 +7,7 @@ DefaultContentLanguage = "fr"
 DefaultContentLanguageInSubdir = true
 [languages]
   [languages.en]
-    contentDir = "content/en" #English
+    contentDir = "/labveilletech/content/en" #English
     weight = 1
     languageName = "English"
     [languages.en.params]
@@ -68,8 +68,8 @@ DefaultContentLanguageInSubdir = true
     [languages.fr.params]
       introTitle = "Salut! Je suis Eloi Coquoz"
       introSubtitle = "Développeuse junior de 26 ans qui adore les jeux de société, le blogging et la peinture"
-      introPhoto = "/picture.jpg"
-      logo = "/blist-logo.png"
+      introPhoto = "/labveilletech/picture.jpg"
+      logo = "/labveilletech/blist-logo.png"
     [[languages.fr.menu.main]]
         name = "Blog"
         url = "blog"
