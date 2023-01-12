@@ -62,5 +62,5 @@
 .dark .dark\:bg-gray-900 {
   --tw-bg-opacity: 1;
   background-color: rgba(30,30,30,var(--tw-bg-opacity)) !important;
-  color: #333 !important;
+  color: #fff !important;
 }
