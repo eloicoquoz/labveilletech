@@ -5,62 +5,7 @@ theme = "blist"
 
 DefaultContentLanguage = "fr"
 DefaultContentLanguageInSubdir = true
-[languages]
-  [languages.en]
-    contentDir = "content/en" #English
-    weight = 1
-    languageName = "English"
-    [languages.en.params]
-      introTitle = "Hey! I'm Katheryn Fox"
-      introSubtitle = "26 y/o junior developer who enjoys social card games, blogging and painting"
-      introPhoto = "/labveilletech/picture.jpg"
-      logo = "/labveilletech/logo.png"
-    [[languages.en.menu.main]]
-        name = "Blog"
-        url = "blog"
-        weight = 1
-
-    [[languages.en.menu.main]]
-        name = "About"
-        url = "page/about/"
-        weight = 2
-
-    [[languages.en.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
-
-    [[languages.en.menu.main]]
-        name = "Top Post"
-        url = "/en/blog/emoji-support/"
-        weight = 4
-
-  [languages.de]
-    contentDir = "content/de" # Deutsch
-    weight = 2
-    languageName = "Deutsch"
-    title = "Blist (mehrsprachig)"
-    description = "Modernes Blog-Theme für Ihre Hugo-Site."
-    [languages.de.params]
-      introTitle = "Hallo, ich bin Katheryn Fox"
-      introSubtitle = "26-jährige Junior-Entwicklerin, die Spaß an sozialen Kartenspielen, Bloggen und Malen hat"
-      introPhoto = "/picture.jpg"
-      logo = "/labveilletech/logo.png"
-    [[languages.de.menu.main]]
-        name = "Blog"
-        url = "blog"
-        weight = 1
-
-    [[languages.de.menu.main]]
-        name = "Über mich"
-        url = "page/about/"
-        weight = 2
-
-    [[languages.de.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
-        
+[languages]        
   [languages.fr]
     contentDir = "content/fr" #French
     weight = 1
@@ -79,11 +24,6 @@ DefaultContentLanguageInSubdir = true
         name = "À propos"
         url = "page/about/"
         weight = 2
-
-    [[languages.fr.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
 
 [params]
   # Enable the darkmode toggle in header
@@ -110,12 +50,12 @@ DefaultContentLanguageInSubdir = true
 
   # To hide "Other languages" option if the post is available in multiple languages
   # Can be used at site level or page level
-  hideOtherLanguages = false
+  hideOtherLanguages = true
 
 [params.homepage.social]
   # Global params common for both languages
-  title = "Follow me"
-  description = "I work on everything coding and tweet developer memes"
+  title = "En savoir plus"
+  description = "Vous pouvez en savoir plus sur moi via mon site internet : https://eloicoquoz.ch
   linkedin = "https://www.linkedin.com/in/eloi-coquoz/"
   github = "https://github.com/eloicoquoz"
   instagram = "https://instagram.com/coquoz_eloi"
