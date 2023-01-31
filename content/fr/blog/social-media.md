@@ -21,6 +21,6 @@ En résumé, cet article explique l'importance des réseaux sociaux pour les clu
 Cet article a été choisis car il lie bien mon domaine d'étude (L'ingénierie des médias) et mon domaine d'intérêt (Le sport). Il montre l'intérêt des réseaux sociaux pour les clubs sportifs. Cela démontre que les réseaux sociaux sont un outil important pour les clubs sportifs. De plus en plus de club sportifs emploient des personnes pour gérer les réseaux sociaux. Et donc la gestion des réseaux sociaux est devenu un métier à part entière dans le domaine du sport. 
 
 ## Sources
-https://ohweb.ca/importance-des-reseaux-sociaux-pour-les-clubs-sportifs/#:~:text=De%20nombreux%20clubs%20sportifs%20amateurs,photos%20de%20leurs%20diff%C3%A9rentes%20rencontres.
+https://ohweb.ca/importance-des-reseaux-sociaux-pour-les-clubs-sportifs/#:~:text=De%20nombreux%20clubs%20sportifs%20amateurs,photos%20de%20leurs%20diff%C3%A9rentes%20rencontres
 
 
