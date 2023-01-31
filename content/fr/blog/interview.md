@@ -1,10 +1,10 @@
 ---
 title: "Interview de Florent Soulez responsable marketing évènementiel et merchandising à la Fédération Française de Football"
 author: "Eloi Coquoz"
-date: 2023-01-21
-description: "L’importance des réseaux sociaux pour les clubs sportifs"
-tags: ["Réseaux sociaux", "Sport", "Clubs sportifs", "Communication", "Marketing"]
-thumbnail: https://www.sportanddev.org/sites/default/files/styles/borealis_spor_16_9_cropped_default_style_respondlarge/public/media/social_media_sportanddev.jpg?itok=YWbn2F9o
+date: 2023-01-28
+description: "la Fan expérience est un ensemble d'éléments mis en place afin de créer une meilleure expérience pour le spectateur."
+tags: ["Marketing", "Sport", "Communication", "Fan expérience", "Fédération Française de Football"]
+thumbnail: https://www.championsdudigital.fr/wp-content/uploads/strategie-marketing-supporters-stade.jpg
 ---
 
 ## L'interview de Florent Soulez
