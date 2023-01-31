@@ -12,6 +12,6 @@ En tant qu'étudiant en ingénierie des médias à la HEIG-VD, je suis passionn�
 Comme on peut le voir ci-dessous, mon ikigai a été effectué automatiquement à partir de quelques informations et de questions auxquelles j'ai répondu. Cependant, l'ikigai présenté reste très général et n'est pas spécifique à ma personne. C'est pour cela que je vais venir apporter plus d'information afin de mieux définir mon ikigai.
 
 ## Mon Ikigai
-<img src="/labveilletech/Ikigai-Eloi.png" alt="Ikigai" width="500"/>
+<img src="/labveilletech/Ikigai-Eloi.png" alt="Ikigai" width="100%"/>
 
 Tu veux en savoir plus sur moi ? Alors visite mon [site web](https://eloicoquoz.ch).
