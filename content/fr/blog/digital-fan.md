@@ -27,7 +27,10 @@ L'article cite plusieurs exemples de l'utilisation de la réalité augmentée da
 ## Résumé
 En résumé, l'article nous montre que la réalité augmentée était déjà présente dans le monde du sport. Mais que maintenant, grâce à l'application FIFA+, elle est devenue plus accessible et plus facile à utiliser. L'article nous explique aussi que la Coupe du monde est une vitrine pour les nouvelle technologie et que cette application pourrait être utilisé dans de nombreux sport dans un futur proche. Enfin, l'article nous démontre que la réalité augmentée n'a pas fini de s'inviter dans les compétitions sportives.
 
+## Choix de l'article
+J'ai choisi cet article car il est très complet et très bien écrit. Il explique très bien les différentes technologies utilisées dans le monde du sport et surtout, il explique très bien l'avenir de la réalité augmentée dans le monde du sport. Il est très intéressant de voir comment la réalité augmentée est utilisé dans le monde du sport et surtout, comment elle pourrait être utilisé dans un futur proche. De plus, cet article démontre bien que de nouvelles technologies sont en train de s'inviter dans le monde du sport et que cela pourrait attirer de nouveaux fans dans les stades. Ceci permettrait donc de lier le domaine de l'ingénierie des médias et du sport.
+
 ## Sources
-- https://www.meilleure-innovation.com/realite-augmentee-coupe-du-monde-2022/#:~:text=Gr%C3%A2ce%20au%20mode%20FIFA%2B%20Stadium,de%20laisser%20la%20magie%20op%C3%A9rer%20!
+https://www.meilleure-innovation.com/realite-augmentee-coupe-du-monde-2022/#:~:text=Gr%C3%A2ce%20au%20mode%20FIFA%2B%20Stadium,de%20laisser%20la%20magie%20op%C3%A9rer%20!
 
 
