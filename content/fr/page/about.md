@@ -1,26 +1,17 @@
 ---
-author: Katheryn Fox
-title: About Me
-date: 2021-07-15
+author: Eloi Coquoz
+title: A Propos
+date: 2023-01-31
 description:
-keywords: ["about-us", "about-hugo", "contact"]
+keywords: ["about-us", "contact"]
 type: about
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+En tant qu'étudiant en ingénierie des médias à la HEIG-VD, je suis passionné de sport et de technologie. Initialement, j'avais l'intention de suivre une haute école en sport à Macolin, mais des blessures m'ont empêché de poursuivre cette voie. Cependant, j'ai la chance de travailler à côté de mes études dans le domaine du sport. Je suis Directeur d'une école suisse de ski dans le canton de Fribourg et responsable Digital et informatique pour le club de hockey Fribourg-Gottéron. Mon objectif est de lier mon domaine d'étude, qui est l'ingénierie des médias, et le domaine du sport. J'ai la chance d'avoir déjà trouvé une place de travail qui liera ces deux domaines à la suite de ma formation.
 
-Hugo makes use of a variety of open source projects including:
+Comme on peut le voir ci-dessous, mon ikigai a été effectué automatiquement à partir de quelques informations et de questions auxquelles j'ai répondu. Cependant, l'ikigai présenté reste très général et n'est pas spécifique à ma personne. C'est pour cela que je vais venir apporter plus d'information afin de mieux définir mon ikigai.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+## Mon Ikigai
+<img src="../../static/Ikigai-Eloi.png" alt="Ikigai" width="500"/>
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Tu veux en savoir plus sur moi ? Alors visite mon [site web](https://eloicoquoz.ch).
