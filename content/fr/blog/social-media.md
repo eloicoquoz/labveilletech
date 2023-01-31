@@ -4,7 +4,7 @@ author: "Eloi Coquoz"
 date: 2023-01-21
 description: "L’importance des réseaux sociaux pour les clubs sportifs"
 tags: ["Réseaux sociaux", "Sport", "Clubs sportifs", "Communication", "Marketing"]
-thumbnail: https://media.lesechos.com/api/v1/images/view/639482de4e093c2b5f477e0a/1280x720/0702987585620-web-tete.jpg
+thumbnail: https://www.sportanddev.org/sites/default/files/styles/borealis_spor_16_9_cropped_default_style_respondlarge/public/media/social_media_sportanddev.jpg?itok=YWbn2F9o
 ---
 
 ## L'importance des réseaux sociaux pour les clubs sportifs
