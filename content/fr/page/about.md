@@ -45,20 +45,6 @@ Création d’une communauté, Conversion de la communauté en Fan, Fidélisatio
 
 Passionné de sport, mon but est de lier passion avec mes différents domaines d’expertise qui sont les suivants : Marketing, Digital, Communication et informatique. Mon but est donc de pouvoir apporter de nouvelles émotions au monde.
 
-## Réseaux / Acteurs / Evénements
-
-[https://sportdigital.fr/a-propos/](https://sportdigital.fr/a-propos/) → Blog 
-
-[https://www.facebook.com/LeSportDigital/](https://www.facebook.com/LeSportDigital/) → Facebook
-
-[https://www.championsdudigital.fr/](https://www.championsdudigital.fr/) → Blog
-
-[https://www.youtube.com/channel/UCZg2HLDJy8l28k6dA1OtHSg](https://www.youtube.com/channel/UCZg2HLDJy8l28k6dA1OtHSg) → Youtube
-
-[https://www.youtube.com/channel/UCa5ZE7Prp6fOufXCQmlIu3A](https://www.youtube.com/channel/UCa5ZE7Prp6fOufXCQmlIu3A) → Youtube
-
-[https://www.linkedin.com/groups/2901731/](https://www.linkedin.com/groups/2901731/) → Linkedin
-
 
 ## En savoir plus
 Tu veux en savoir plus sur moi ? Alors visite mon [site web](https://eloicoquoz.ch).
